@@ -32,7 +32,7 @@ fun TampilData(
 ){
     val items = listOf(
         Pair(first = stringResource(id = R.string.nama_lengkap),"Contoh Nama"),
-        Pair(first = stringResource(id = R.string.jeis_kelamin),"Lainnya"),
+        Pair(first = stringResource(id = R.string.jeis_kelamin),"Contoh Jenis kelamin"),
         Pair(first = stringResource(id = R.string.alamat),"Contoh Nama")
     )
     Scaffold(
